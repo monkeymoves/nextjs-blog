@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>I am a very hungry pussycat</p>
         <p>
-          My hoomans have put me on a diet and I am <Link href="/images/mad.jpg">MAD</Link> 
+          My hoomans have put me on a diet and I am <Link href="/images/mad.jpg">MAD AS FUCK</Link> 
         </p>
         <p>
           read my blog here: <Link href="/posts/first-post">Bloggy</Link>
