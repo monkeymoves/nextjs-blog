@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
           My hoomans have put me on a diet and I am <Link href="/images/mad.jpg">MAD</Link> 
         </p>
         <p>
-          read my blog here: <Link href="/posts/first-post">Bloggy</Link>
+          read my blog here: <Link href="/posts/first-post">Bloggy from a hungry cat</Link>
 
         </p>
         
